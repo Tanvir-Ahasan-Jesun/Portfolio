@@ -20,7 +20,7 @@ I bridge the gap between **technical Python/SQL analysis** and clear **business 
 | :--- | :--- | :--- | :--- |
 | **01. Retail Analytics** | `Python` | Retail | Full Python data pipeline for profit & margin optimization. |
 | **02. Real Estate Valuation** | `Excel` | Real Estate | Market trend analysis and ROI investment modeling. |
-| **03. Café Sales Audit** | `Excel` | Hospitality | Data quality validation and revenue optimization insights. |
+| **03. Café Sales Audit** | `Excel` + `Python` | Hospitality | Data quality validation and revenue optimization insights. |
 | **04. Workforce Analytics** | `Excel` + `Python` | HR | Employee retention risk modeling and burnout analysis. |
 | **05. Business Simulation** | `Excel` | General | Strategic optimization using simulated educational/business data. |
 | **06. Executive Dashboard** | `Power BI` | Management | Interactive KPI tracker for dynamic business health monitoring. |
