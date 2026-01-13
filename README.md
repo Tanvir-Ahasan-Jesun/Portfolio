@@ -14,22 +14,19 @@ I bridge the gap between **technical Python/SQL analysis** and clear **business 
 
 ---
 
-## Portfolio Overview
+## 📂 Featured Projects
 
-This repository contains five key projects demonstrating my expertise in data analysis, visualization, and business strategy:
+| Project | Tools | Domain | Key Deliverables |
+| :--- | :--- | :--- | :--- |
+| **01. Retail Analytics** | `Python` | Retail | Full Python data pipeline for profit & margin optimization. |
+| **02. Real Estate Valuation** | `Excel` | Real Estate | Market trend analysis and ROI investment modeling. |
+| **03. Café Sales Audit** | `Excel` | Hospitality | Data quality validation and revenue optimization insights. |
+| **04. Workforce Analytics** | `Excel` + `Python` | HR | Employee retention risk modeling and burnout analysis. |
+| **05. Business Simulation** | `Excel` | General | Strategic optimization using simulated educational/business data. |
+| **06. Executive Dashboard** | `Power BI` | Management | Interactive KPI tracker for dynamic business health monitoring. |
 
-| File Name | Project Focus |
-|-----------|---------------|
-| `Portfolio1` | Retail Profitability & Margin Optimization: Sales analysis, loss prevention, pricing strategy. |
-| `Portfolio2` | Real Estate Valuation & Investment Strategy: Market trends, property valuation, ROI analysis. |
-| `Portfolio3` | Café Sales Data Quality Audit: Data validation, revenue insights, operational optimization. |
-| `Portfolio4` | Workforce Analytics (HR): Retention risk, burnout analysis, HR data integrity. |
-| `Portfolio5` | Additional Project: Custom case study or ongoing project analysis. |
-
-> Each folder can contain:
-> - `data/` – Raw or cleaned datasets  
-> - `analysis.ipynb` – Python/SQL/Excel analysis notebooks  
-> - `README.md` – Detailed explanation of project objectives, methods, and findings  
+## 🏗️ Currently Building
+I am currently developing **three specialized Dutch market projects**
 
 ---
 
